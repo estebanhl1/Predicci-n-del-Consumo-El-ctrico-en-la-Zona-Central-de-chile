@@ -1,6 +1,7 @@
 Docente:  Pablo Schwarzenberg  
 
-Autores:  Camilo González 
+Autores:  
+          Camilo González 
 
           Esteban Hernández 
 
